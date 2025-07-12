@@ -35,5 +35,9 @@
 - [ ] Design Online Food Delivery Service (like Swiggy)
 - [ ] Design Music Streaming Service (like Spotify)
 - [ ] Design University Course Registration System
+- [ ] Design otp generator
+- [ ] Design tail command
+- [ ] Design Google Drive like System
+- [ ] Design jwt Authentication 
 
 ---
