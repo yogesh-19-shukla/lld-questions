@@ -6,7 +6,7 @@
 - [x] Design Tic Tac Toe Game
 - [x] Design Chess Game
 - [x] Design Parking Lot
-- [ ] Design a Vending Machine
+- [x] Design a Vending Machine
 - [ ] Design Stack Overflow
 - [ ] Design Logging Framework
 - [ ] Design Coffee Vending Machine
