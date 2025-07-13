@@ -5,7 +5,7 @@
 - [x] Design Pub Sub System
 - [x] Design Tic Tac Toe Game
 - [x] Design Chess Game
-- [ ] Design Parking Lot
+- [x] Design Parking Lot
 - [ ] Design a Vending Machine
 - [ ] Design Stack Overflow
 - [ ] Design Logging Framework
