@@ -7,7 +7,7 @@
 - [x] Design Chess Game
 - [x] Design Parking Lot
 - [x] Design a Vending Machine
-- [ ] Design Stack Overflow
+- [x] Design Stack Overflow
 - [ ] Design Logging Framework
 - [ ] Design Coffee Vending Machine
 - [ ] Design a Task Management System
