@@ -12,7 +12,7 @@
 - [ ] Design Coffee Vending Machine
 - [ ] Design a Task Management System
 - [ ] Design Car Rental System
-- [ ] Design an ATM
+- [x] Design an ATM
 - [ ] Design Hotel Management System
 - [ ] Design LinkedIn
 - [ ] Design a Social Network like Facebook
@@ -36,7 +36,7 @@
 - [ ] Design Music Streaming Service (like Spotify)
 - [ ] Design University Course Registration System
 - [ ] Design otp generator
-- [ ] Design tail command
+- [x] Design tail command
 - [ ] Design Google Drive like System
 - [ ] Design jwt Authentication 
 
