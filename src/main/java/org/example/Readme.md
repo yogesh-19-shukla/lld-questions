@@ -8,7 +8,7 @@
 - [x] Design Parking Lot
 - [x] Design a Vending Machine
 - [x] Design Stack Overflow
-- [ ] Design Logging Framework
+- [x] Design Logging Framework
 - [ ] Design Coffee Vending Machine
 - [ ] Design a Task Management System
 - [ ] Design Car Rental System
