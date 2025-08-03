@@ -9,14 +9,13 @@
 - [x] Design a Vending Machine
 - [x] Design Stack Overflow
 - [x] Design Logging Framework
-- [ ] Design Coffee Vending Machine
 - [ ] Design a Task Management System
 - [ ] Design Car Rental System
 - [x] Design an ATM
 - [ ] Design Hotel Management System
 - [ ] Design LinkedIn
 - [ ] Design a Social Network like Facebook
-- [ ] Design an Elevator System
+- [x] Design an Elevator System
 - [ ] Design a Library Management System
 - [ ] Design Restaurant Management System
 - [ ] Design Airline Management System
@@ -34,7 +33,6 @@
 - [ ] Design Ride-Sharing Service (like Uber)
 - [ ] Design Online Food Delivery Service (like Swiggy)
 - [ ] Design Music Streaming Service (like Spotify)
-- [ ] Design University Course Registration System
 - [ ] Design otp generator
 - [x] Design tail command
 - [ ] Design Google Drive like System
