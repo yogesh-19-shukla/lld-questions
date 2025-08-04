@@ -9,10 +9,9 @@
 - [x] Design a Vending Machine
 - [x] Design Stack Overflow
 - [x] Design Logging Framework
-- [ ] Design a Task Management System
 - [ ] Design Car Rental System
 - [x] Design an ATM
-- [ ] Design Hotel Management System
+- [x] Design Hotel Management System
 - [ ] Design LinkedIn
 - [ ] Design a Social Network like Facebook
 - [x] Design an Elevator System
