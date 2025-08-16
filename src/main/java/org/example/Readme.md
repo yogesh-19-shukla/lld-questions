@@ -32,7 +32,7 @@
 - [ ] Design Ride-Sharing Service (like Uber)
 - [ ] Design Online Food Delivery Service (like Swiggy)
 - [ ] Design Music Streaming Service (like Spotify)
-- [ ] Design otp generator
+- [x] Design otp generator
 - [x] Design tail command
 - [ ] Design Google Drive like System
 - [ ] Design jwt Authentication 
