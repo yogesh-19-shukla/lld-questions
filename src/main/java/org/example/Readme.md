@@ -15,6 +15,7 @@
 - [x] Design otp generator
 - [x] Design tail command
 - [x] Design Car Rental System
+- [x] Design jwt Authentication
 - [ ] Design LinkedIn
 - [ ] Design a Social Network like Facebook
 - [ ] Design a Library Management System
@@ -22,7 +23,6 @@
 - [ ] Design Airline Management System
 - [ ] Design a Digital Wallet System
 - [ ] Design an Online Auction System
-- [ ] Design a Vehicle Rental System
 - [ ] Design a Concert Ticket Booking System
 - [ ] Design a Cache using LRU Eviction Policy
 - [ ] Design Movie Ticket Booking System
@@ -35,6 +35,5 @@
 - [ ] Design Online Food Delivery Service (like Swiggy)
 - [ ] Design Music Streaming Service (like Spotify)
 - [ ] Design Google Drive like System
-- [ ] Design jwt Authentication 
 
 ---
