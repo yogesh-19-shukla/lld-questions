@@ -16,6 +16,8 @@
 - [x] Design tail command
 - [x] Design Car Rental System
 - [x] Design jwt Authentication
+- [x] Design a Cache using LRU Eviction Policy
+- [x] Design a Snake and Ladder game
 - [ ] Design LinkedIn
 - [ ] Design a Social Network like Facebook
 - [ ] Design a Library Management System
@@ -24,10 +26,8 @@
 - [ ] Design a Digital Wallet System
 - [ ] Design an Online Auction System
 - [ ] Design a Concert Ticket Booking System
-- [ ] Design a Cache using LRU Eviction Policy
 - [ ] Design Movie Ticket Booking System
 - [ ] Design Splitwise
-- [ ] Design a Snake and Ladder game
 - [ ] Design Online Shopping System like Amazon
 - [ ] Design Online Stock Brokerage System
 - [ ] Design CricInfo
