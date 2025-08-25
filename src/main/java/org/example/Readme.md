@@ -18,9 +18,9 @@
 - [x] Design jwt Authentication
 - [x] Design a Cache using LRU Eviction Policy
 - [x] Design a Snake and Ladder game
-- [ ] Design LinkedIn
-- [ ] Design a Social Network like Facebook
-- [ ] Design a Library Management System
+- [x] Design LinkedIn
+- [x] Design a Social Network like Facebook
+- [x] Design a Library Management System
 - [ ] Design Restaurant Management System
 - [ ] Design Airline Management System
 - [ ] Design a Digital Wallet System
