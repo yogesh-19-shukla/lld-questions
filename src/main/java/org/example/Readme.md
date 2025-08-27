@@ -23,10 +23,10 @@
 - [x] Design a Library Management System
 - [x] Design Restaurant Management System
 - [x] Design Movie Ticket Booking System
+- [x] Design Ride-Sharing Service (like Uber)
 - [ ] Design Splitwise
 - [ ] Design Online Shopping System like Amazon
 - [ ] Design CricInfo
-- [ ] Design Ride-Sharing Service (like Uber)
 - [ ] Design Online Food Delivery Service (like Swiggy)
 - [ ] Design Music Streaming Service (like Spotify)
 - [ ] Design Google Drive like System
