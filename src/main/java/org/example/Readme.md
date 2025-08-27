@@ -21,15 +21,10 @@
 - [x] Design LinkedIn
 - [x] Design a Social Network like Facebook
 - [x] Design a Library Management System
-- [ ] Design Restaurant Management System
-- [ ] Design Airline Management System
-- [ ] Design a Digital Wallet System
-- [ ] Design an Online Auction System
-- [ ] Design a Concert Ticket Booking System
+- [x] Design Restaurant Management System
 - [ ] Design Movie Ticket Booking System
 - [ ] Design Splitwise
 - [ ] Design Online Shopping System like Amazon
-- [ ] Design Online Stock Brokerage System
 - [ ] Design CricInfo
 - [ ] Design Ride-Sharing Service (like Uber)
 - [ ] Design Online Food Delivery Service (like Swiggy)
