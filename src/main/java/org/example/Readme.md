@@ -24,7 +24,7 @@
 - [x] Design Restaurant Management System
 - [x] Design Movie Ticket Booking System
 - [x] Design Ride-Sharing Service (like Uber)
-- [ ] Design Splitwise
+- [x] Design Splitwise
 - [ ] Design Online Shopping System like Amazon
 - [ ] Design CricInfo
 - [ ] Design Online Food Delivery Service (like Swiggy)
