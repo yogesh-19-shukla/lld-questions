@@ -26,9 +26,8 @@
 - [x] Design Ride-Sharing Service (like Uber)
 - [x] Design Splitwise
 - [x] Design Online Shopping System like Amazon
+- [x] Design Online Food Delivery Service (like Swiggy)
 - [ ] Design CricInfo
-- [ ] Design Online Food Delivery Service (like Swiggy)
 - [ ] Design Music Streaming Service (like Spotify)
-- [ ] Design Google Drive like System
 
 ---
