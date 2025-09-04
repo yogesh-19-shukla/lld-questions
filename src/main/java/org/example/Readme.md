@@ -27,7 +27,7 @@
 - [x] Design Splitwise
 - [x] Design Online Shopping System like Amazon
 - [x] Design Online Food Delivery Service (like Swiggy)
-- [ ] Design CricInfo
+- [x] Design CricInfo
 - [ ] Design Music Streaming Service (like Spotify)
 
 ---
