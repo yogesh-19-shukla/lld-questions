@@ -28,6 +28,6 @@
 - [x] Design Online Shopping System like Amazon
 - [x] Design Online Food Delivery Service (like Swiggy)
 - [x] Design CricInfo
-- [ ] Design Music Streaming Service (like Spotify)
+- [x] Design Music Streaming Service (like Spotify)
 
 ---
